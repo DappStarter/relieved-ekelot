@@ -1,0 +1,19 @@
+{
+    "name": "MyStarterApp",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/contract_runstate": true,
+        "/category/access_control/administrator_role": true,
+        "/category/access_control/contract_access": true,
+        "/category/asset_value_tracking/token": true,
+        "/category/asset_value_tracking/token/name": "MyStarterToken",
+        "/category/asset_value_tracking/token/symbol": "TOK",
+        "/category/asset_value_tracking/token/decimals": "5",
+        "/category/asset_value_tracking/token/supply": "10000000",
+        "/category/file_storage/sia": true,
+        "/category/file_storage/sia/mode": "single",
+        "/category/collection/entity": true
+    }
+}
